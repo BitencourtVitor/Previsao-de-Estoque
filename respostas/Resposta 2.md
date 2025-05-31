@@ -13,8 +13,8 @@ Foi utilizada ANOVA e regressão linear com interações triplas entre Sazonalid
 - Interações são estatisticamente significativas.
 
 #### Visualizações
-- ![Heatmap de Demanda](../graficos/pergunta 2/Figure_1.png)
-- ![Interação Sazonalidade x Epidemia](../graficos/pergunta 2/Figure_2.png)
+- ![Heatmap de Demanda](https://github.com/BitencourtVitor/Previsao-de-Estoque/blob/main/graficos/pergunta%202/Figure_1.png)
+- ![Interação Sazonalidade x Epidemia](https://github.com/BitencourtVitor/Previsao-de-Estoque/blob/main/graficos/pergunta%202/Figure_2.png)
 
 #### Discussão
 Os gráficos e o modelo confirmam a importância das interações. A epidemia é o fator isolado de maior impacto negativo. Limitações incluem multicolinearidade e possíveis efeitos não capturados por variáveis externas.
