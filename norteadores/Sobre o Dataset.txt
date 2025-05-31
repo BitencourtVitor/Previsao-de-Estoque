@@ -1,0 +1,37 @@
+# Descrição das Variáveis do Dataset
+
+## Em Português
+Date: Data do registro.
+Store ID: Identificador único da loja.
+Product ID: Identificador único do produto.
+Category: Categoria do produto.
+Region: Região geográfica da loja.
+Inventory Level: Unidades disponíveis em estoque.
+Units Sold: Unidades vendidas naquele dia.
+Units Ordered: Unidades pedidas para reposição.
+Price: Preço do produto.
+Discount: Desconto aplicado, se houver.
+Weather Condition: Condição climática no dia do registro.
+Promotion: 1 se houve promoção, 0 caso contrário.
+Competitor Pricing: Preço de um produto similar de um concorrente.
+Seasonality: Estação (por exemplo, Inverno, Primavera).
+Epidemic: 1 se ocorreu uma epidemia, 0 caso contrário.
+Demand: Demanda diária estimada para o produto.
+
+## In English
+Date: Date of the record.
+Store ID: Unique identifier for the store.
+Product ID: Unique identifier for the product.
+Category: Product category.
+Region: Geographical region of the store.
+Inventory Level: Units available in stock.
+Units Sold: Units sold on that day.
+Units Ordered: Units ordered for restocking.
+Price: Product price.
+Discount: Discount applied, if any.
+Weather Condition: Weather on the day of the record.
+Promotion: 1 if there was a promotion, 0 otherwise.
+Competitor Pricing: Price of a similar product from a competitor.
+Seasonality: Season (e.g., Winter, Spring).
+Epidemic: 1 if an epidemic occurred, 0 otherwise.
+Demand: Daily estimated demand for the product

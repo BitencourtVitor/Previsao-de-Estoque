@@ -1,0 +1,19 @@
+Como o efeito conjunto entre Promoção, Desconto e Competitor Pricing impacta o aumento percentual nas Units Sold, controlando por Categoria e Região?
+
+Existe interação significativa entre Seasonality, Weather Condition e Epidemic na variação do Demand? Caso sim, quais combinações de fatores geram maior ou menor demanda?
+
+Qual o efeito moderador da variável Region na relação entre Inventory Level e Units Ordered? Ou seja, em quais regiões um baixo estoque leva a um maior volume de pedidos?
+
+É possível prever com acurácia as Units Sold utilizando um modelo de machine learning que incorpore variáveis exógenas como Weather Condition, Competitor Pricing e Seasonality? Quais são as variáveis com maior importância no modelo?
+
+Existe evidência de que, em determinadas categorias, o Price influencia mais fortemente o Demand do que a presença de uma Promotion? Em quais categorias essa diferença é estatisticamente significativa?
+
+Como o comportamento de Units Sold em dias de Epidemic difere em termos de elasticidade-preço quando comparado a dias normais, considerando a variabilidade por Categoria?
+
+Quais padrões sazonais podem ser identificados na relação entre Units Ordered e Inventory Level, considerando simultaneamente o efeito de Competitor Pricing e a ocorrência de Promoções?
+
+Em que medida as condições climáticas extremas (e.g., tempestades, ondas de calor) impactam o estoque (Inventory Level) e as vendas (Units Sold), e como esse impacto varia entre regiões e categorias?
+
+Existe um limiar de Discount a partir do qual a probabilidade de aumento nas Units Sold se estabiliza ou diminui? Esse ponto de inflexão varia conforme Category ou Region?
+
+Como a combinação de baixa Competitor Pricing com altas Promoções e Descontos influencia o risco de ruptura de estoque (Inventory Level próximo de zero), e quais são os clusters de lojas mais suscetíveis a esse risco?
