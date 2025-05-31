@@ -14,7 +14,7 @@ Utilizou-se regressão robusta (RLM) com engenharia de features, controle para c
 - Controle para categoria, região e produto premium.
 
 ### Visualizações
-- ![Gráfico de Resíduos](../graficos/pergunta 1/Figure_3.png)
+- ![Gráfico de Resíduos](https://github.com/BitencourtVitor/Previsao-de-Estoque/blob/main/graficos/pergunta%201/Figure_3.png)
 
 ### Discussão
 A estratégia ideal envolve combinar descontos, monitorar preços dos concorrentes e aplicar promoções, especialmente em produtos de maior valor. O modelo é robusto a outliers e controla para variáveis relevantes. Limitações incluem possíveis efeitos não modelados e dependência da qualidade dos dados.
